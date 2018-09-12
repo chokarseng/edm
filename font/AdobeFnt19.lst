@@ -1,0 +1,48 @@
+%!Adobe-FontList 1.19
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\_Ecards\Ascendas Ecard Mid Autumn 2018\v3\Font\Futura-Bold
+FileModTime:1510825428
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\_Ecards\Ascendas Ecard Mid Autumn 2018\v3\Font\HelveNeuLig
+FileModTime:1510825428
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FZLTXHB--B51-0
+FamilyName:Lantinghei TC
+StyleName:Extralight
+FullName:Lantinghei TC Extralight
+MenuName:Lantinghei TC
+StyleBits:0
+FamilyNameNative:蘭亭黑-繁
+StyleNameNative:纖黑
+FullNameNative:蘭亭黑-繁 纖黑 
+WritingScript:TraditionalChinese
+OutlineFileName:E:\_Ecards\Ascendas Ecard Mid Autumn 2018\v3\Font\Lantinghei-TC-Extralight-stub.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:181188
+FileModTime:1510825425
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Lantinghei TC Extralight
+NameArray:2,Win,1,蘭亭黑-繁
+NameArray:2,Win,16,蘭亭黑-繁
+NameArray:0,Win,1,Lantinghei TC
+NameArray:0,Win,16,Lantinghei TC
+NameArray:25,Win,1,兰亭黑-繁
+NameArray:25,Win,16,兰亭黑-繁
+%EndFont
+
